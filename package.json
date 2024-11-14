@@ -1,0 +1,11 @@
+{
+  "name": "openpage-node",
+  "version": "1.0.0",
+  "description": "Ahahahah",
+  "main": "index.js",
+  "scripts": {
+    "ahahah": "node index.js"
+  },
+  "author": "Samuel Panicucci",
+  "license": "ISC"
+}
